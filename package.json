@@ -1,0 +1,25 @@
+{
+  "name": "ullamdolorem",
+  "author": "CristalHoeger",
+  "description": "swagger.js is a javascript client for use with swaggering APIs.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FayWatsica/ullamdolorem.git"
+  },
+  "main": "lib/swagger.js",
+  "engines": {
+    "node": ">= 0.6.6"
+  },
+  "dependencies": {
+    "shred": "0.8.10",
+    "btoa": "1.1.1"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.5.0"
+  },
+  "license": "apache 2.0",
+  "bugs": {
+    "url": "https://github.com/FayWatsica/ullamdolorem.git/issues"
+  }
+}
